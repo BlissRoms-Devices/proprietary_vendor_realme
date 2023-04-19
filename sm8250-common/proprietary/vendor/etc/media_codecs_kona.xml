@@ -508,4 +508,6 @@ Only the three quirks included above are recognized at this point:
         </MediaCodec>
     </Decoders>
     <Include href="media_codecs_google_video.xml" />
+    <!-- Inherit Dolby Audio Mediacodecs -->
+    <Include href="media_codecs_dolby_audio.xml" />
 </MediaCodecs>
